@@ -126,10 +126,14 @@
     <ClCompile Include="CirsaPruebaTécnica.cpp" />
     <ClCompile Include="Ejercicio1.cpp" />
     <ClCompile Include="Ejercicio2.cpp" />
+    <ClCompile Include="Ejercicio3.cpp" />
+    <ClCompile Include="Ejercicio4.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Ejercicio1.h" />
     <ClInclude Include="Ejercicio2.h" />
+    <ClInclude Include="Ejercicio3.h" />
+    <ClInclude Include="Ejercicio4.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

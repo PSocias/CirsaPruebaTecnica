@@ -4,6 +4,8 @@
 #include <iostream>
 #include "Ejercicio1.h"
 #include "Ejercicio2.h"
+#include "Ejercicio3.h"
+#include "Ejercicio4.h"
 
 using namespace std;
 
@@ -29,6 +31,9 @@ int main()
     t.PulsarPantalla();
 
     cout << "Nuevo juego funciona ahora con normalidad" << endl;
+
+    // Testing Ejercicio 4
+    TestRobots();
 }
 
 

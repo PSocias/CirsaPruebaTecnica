@@ -24,12 +24,24 @@
     <ClCompile Include="Ejercicio1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Ejercicio3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ejercicio4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Ejercicio2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Ejercicio1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ejercicio3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ejercicio4.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
